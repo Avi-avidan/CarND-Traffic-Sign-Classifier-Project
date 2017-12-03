@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [image2]: ./figures/all_datasets.png "five images of each dataset"
 [image3]: ./figures/augmentation1.png "augmantation example1"
 [image4]: ./figures/augmentation2.png "augmantation example2"
-[image5]: ./figures/train_set_distribution.png "training set distribution"
+[image5]: ./figures/train_set_class_distribution.png "training set distribution"
 [image6]: ./figures/augmented_set_class_distribution.png "augmented set distribution"
 [image7]: ./figures/top_5_predictions.png "top 5 predictions bar chart"
 [image8]: ./figures/final_test.png "final test on 5 unseen images"
