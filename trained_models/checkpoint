@@ -1,0 +1,6 @@
+model_checkpoint_path: "lenet_0.989"
+all_model_checkpoint_paths: "lenet_0.896"
+all_model_checkpoint_paths: "lenet_0.969"
+all_model_checkpoint_paths: "lenet_0.975"
+all_model_checkpoint_paths: "lenet_0.987"
+all_model_checkpoint_paths: "lenet_0.989"
