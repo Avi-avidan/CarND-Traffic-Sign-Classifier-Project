@@ -31,7 +31,7 @@ The goals / steps of this project are the following:
 ---
 ### Writeup / README
 
-#### 1. link to my [project code](https://github.com/Avi-avidan/CarND-Traffic-Sign-Classifier-Project/Traffic_Sign_Classifier_20171022.ipynb)
+#### 1. link to my [project code](https://github.com/Avi-avidan/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier_20171022.ipynb)
 
 ### Data Set Summary & Exploration
 
