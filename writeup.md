@@ -63,9 +63,11 @@ each classes was further populated to create even distribution accross all class
 ![alt text][image6]
 
 population of under represented classes was carried by random roatation & random cropping.
+
 augmantation example 1 -
 ![alt text][image3]
-augmantation example 1 -
+
+augmantation example 2 -
 ![alt text][image4]
 
 lastly, image data was normalized to achieve quicker & more efficient optimization.
